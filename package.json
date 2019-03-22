@@ -1,0 +1,26 @@
+{
+    "name": "lemon-web",
+    "version": "1.0.0",
+    "description": "柠檬前端",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "gulp"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lx-is-the-one/lemon-web.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lx-is-the-one/lemon-web/issues"
+    },
+    "homepage": "https://github.com/lx-is-the-one/lemon-web#readme",
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-sass": "^4.0.2",
+        "gulp-webserver": "^0.9.1"
+    }
+}
